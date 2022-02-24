@@ -1,0 +1,14 @@
+.form_usuarios {
+    margin: 0 auto;
+    width:400px;
+}
+
+label {
+    display: inline-block;
+    width:90px;
+    text-align: right;
+}
+
+button {
+    margin-left: .5rem;
+}
